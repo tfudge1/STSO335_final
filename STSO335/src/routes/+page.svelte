@@ -11,10 +11,11 @@
 
 <section>
 
-
 	<h1>
 		Frederick Law Olmsted’s Urban Design Philosophy from inception to today
 	</h1>
+	<img src="https://californiahistoricalsociety.org/wp-content/uploads/2023/04/MC-Feature-Image-89.jpg" alt="Frederick Law Olmsted" />
+	<p class="footer-citation"><a href="https://californiahistoricalsociety.org/blog/frederick-law-olmsted-resource-guide/">California Historical Society</a></p>
 
 	<p>The United States experienced a fast-paced transformation into an urban nation during the nineteenth century while industrial development accompanied this urban growth. The combination of industrial production facilities and human population growth with air pollution caused serious doubts about  the ability of urban areas to sustain life. Frederick Law Olmsted entered this stressful environment to introduce urban planning concepts which would transform both physical spaces and civic social structures. The work of Olmsted went beyond landscape architecture since he functioned as a social reformer and writer and managerial visionary who used parks to create healthy environments with fair distribution of resources and facilitate social organization. His landscape work across the United States including Rochester New York demonstrates how his principles led to practical landscape implementation. Although it may look different today than it did in Olmsted’s time, the green urban philosophy created by Olmsted for promoting moral improvement, environmental awareness and public democratic areas continues to guide contemporary urban planning to this day.</p>
 
@@ -28,14 +29,19 @@
 
 	<iframe title="Highland Park" frameborder="0" class="juxtapose" width="100vw" height="auto" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=0a121954-1e07-11f0-bb23-0936e1cb08fb"></iframe>
 
-
+	<a href="./bib"><button>Bibligoraphy</button></a>
 </section>
 
 <style>
-iframe{
-	min-width: 100vw;
-	min-height:100vh;
-}
+		.footer-citation{
+		font-size: .7em;
+		color: #535454;
+		text-indent: 0%;
+	}
+	iframe{
+		min-width: 100vw;
+		min-height:100vh;
+	}
 
 	.tangent{
 		background-color: #cacccf;
